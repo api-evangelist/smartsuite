@@ -1,0 +1,60 @@
+aid: smartsuite
+name: SmartSuite
+description: >-
+  SmartSuite is a collaborative work management platform that helps teams plan,
+  track, and manage workflows, projects, and everyday tasks using customizable
+  solutions, tables, records, and automations. The platform combines spreadsheet,
+  database, project management, and workflow automation capabilities into a
+  unified workspace. SmartSuite's REST API provides programmatic access to
+  Solutions, Tables, Records, and Fields using token-based authentication.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Work Management
+  - Project Management
+  - Collaboration
+  - Workflow Automation
+  - No-Code
+  - Productivity
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/smartsuite/refs/heads/main/apis.yml
+created: '2026-05-11'
+modified: '2026-05-11'
+specificationVersion: '0.19'
+apis:
+  - aid: smartsuite:rest-api
+    name: SmartSuite REST API
+    description: >-
+      REST API for managing Solutions, Tables, Records, and Fields in the
+      SmartSuite work management platform. Authentication uses an API Token
+      passed in the Authorization header with the Workspace ID in the
+      Account-Id header.
+    humanURL: https://developers.smartsuite.com/
+    baseURL: https://app.smartsuite.com/api/v1
+    tags:
+      - Work Management
+      - Records
+      - Solutions
+      - Tables
+      - Fields
+      - Automation
+    properties:
+      - type: Documentation
+        url: https://developers.smartsuite.com/
+      - type: Authentication
+        url: https://developers.smartsuite.com/docs/authentication
+      - type: Overview
+        url: https://help.smartsuite.com/en/articles/4356333-smartsuite-api-overview
+
+common:
+  - type: Website
+    url: https://www.smartsuite.com
+  - type: Documentation
+    url: https://developers.smartsuite.com/
+  - type: Pricing
+    url: https://www.smartsuite.com/pricing
+  - type: Sign Up
+    url: https://app.smartsuite.com/signup
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
