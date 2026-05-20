@@ -47,6 +47,8 @@ apis:
         url: https://help.smartsuite.com/en/articles/4356333-smartsuite-api-overview
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hellosmartsuite
   - type: Website
     url: https://www.smartsuite.com
   - type: Documentation
