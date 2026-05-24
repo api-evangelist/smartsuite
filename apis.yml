@@ -57,6 +57,8 @@ common:
     url: https://www.smartsuite.com/pricing
   - type: SignUp
     url: https://app.smartsuite.com/signup
+  - type: LLMsTxt
+    url: https://developers.smartsuite.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
