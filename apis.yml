@@ -47,6 +47,10 @@ apis:
         url: https://help.smartsuite.com/en/articles/4356333-smartsuite-api-overview
 
 common:
+  - type: TrustCenter
+    url: security/smartsuite-trust-center.yml
+  - type: DomainSecurity
+    url: security/smartsuite-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/hellosmartsuite
   - type: Website
@@ -59,6 +63,8 @@ common:
     url: https://app.smartsuite.com/signup
   - type: LlmsText
     url: https://developers.smartsuite.com/llms.txt
+  - url: https://www.smartsuite.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
