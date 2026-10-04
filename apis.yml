@@ -35,7 +35,7 @@ tags:
   - Work Management
   - Project Management
   - Collaboration
-  - Workflow-Automation
+  - Workflow Automation
   - No-Code
   - Productivity
 tags_raw:
@@ -45,6 +45,7 @@ tags_raw:
   - Workflow Automation
   - No-Code
   - Productivity
+  - Workflow-Automation
 url: >-
   https://raw.githubusercontent.com/api-evangelist/smartsuite/refs/heads/main/apis.yml
 created: '2026-05-11'
