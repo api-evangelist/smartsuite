@@ -54,3 +54,16 @@
     builder: Pipedream repo (component)
   status: not-a-workflow
   arazzo: null
+- slug: smartsuite-hubspot-own
+  label: HubSpot (own)
+  partner: hubspot
+  partner_name: HubSpot (own)
+  category: PROJECT_MANAGEMENT
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://ecosystem.hubspot.com/marketplace/listing/smartsuite-1266156
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
